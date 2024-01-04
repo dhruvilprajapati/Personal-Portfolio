@@ -22,7 +22,7 @@ const ProjectCardData = [
         imgUrl: toDoList,
         title: "To-do List  (Using Node Js)",
         description: "First of all, I learn Nodejs, then I gain knowledge by designing a to-do list as an experiment.The endeavor proved to be successful, prompting me to proceed with the deployment on Cyclic.",
-        view: "https://dhruvil-prajapati-todolist.cyclic.app/",
+        view: "https://dhruvil-todolist.cyclic.app/",
         source: "https://github.com/dhruvilprajapati/To-doList"
     }
 ]
