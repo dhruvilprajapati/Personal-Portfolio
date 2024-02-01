@@ -12,8 +12,8 @@ const AboutContent = () => {
                     Who Am I ?
                 </h1>
                 <p>
-                    Hi, I'm Dhruvil Prajapati, currently pursuing 7th sem of computer engineering from Silveroak university.
-                    I am passionate about <span style={{ color: "#f2e030" }}>Web Developer</span> and I am eager to begin my career.
+                    Hi, I'm Dhruvil Prajapati, currently pursuing bachelor in the field of Computer Engineering  from Silveroak university.
+                    I am passionate about <span style={{ color: "#f2e030" }}>Software Developer</span> and I am eager to begin my career.
                     I have a strong foundation in ReactJS, MongoDB,Express,NodeJs and also have kmowledge of Python and Java.
                 </p>
                 <Link to="/contact" className='btn'>Contact</Link>
