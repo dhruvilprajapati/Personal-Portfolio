@@ -9,7 +9,7 @@ const ProjectCardData = [
     {
         imgUrl: ShoppingCart,
         title: "ShoppingCart  (ReactJs, Context and localStorage)",
-        description: "The `Shopping Cart` project is a web application built using React, React-Bootstrap for styling, React Router for navigation, and incorporating advanced state management techniques with useContext and a custom hook called useLocalStorage. The project leverages the browser's localStorage to persistently store shopping cart data, providing a seamless user experience even after page reloads.",
+        description: "The Shopping Cart project is a React web app using React-Bootstrap and React Router. It employs useContext and useLocalStorage for advanced state management, utilizing localStorage for persistent shopping cart data storage.",
         view: "https://dhruvil-prajapati-shoppingcart.netlify.app/",
         source: "https://github.com/dhruvilprajapati/ShoppingCart"
     },
@@ -31,7 +31,7 @@ const ProjectCardData = [
         imgUrl: toDoList,
         title: "To-do List  (Node Js)",
         description: "First of all, I learn Nodejs, then I gain knowledge by designing a to-do list as an experiment.The endeavor proved to be successful, prompting me to proceed with the deployment on Cyclic.",
-        view: "https://dhruvil-prajapati-todolist.cyclic.app/",
+        view: "https://dhruvil-todolist.cyclic.app/",
         source: "https://github.com/dhruvilprajapati/To-doList"
     }
 ]
